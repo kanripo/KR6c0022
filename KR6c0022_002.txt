@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:27.008880
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:25
 #+TITLE: 佛說濡首菩薩無上清淨分衛經
 #+PROPERTY: CBETA_ID T08n0234
 #+PROPERTY: ID KR6c0022

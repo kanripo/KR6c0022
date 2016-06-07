@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:27.008880
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:25
 #+TITLE: 佛說濡首菩薩無上清淨分衛經
 #+PROPERTY: CBETA_ID T08n0234
 #+PROPERTY: ID KR6c0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 234
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0022_T_002-0744c> 
 #+PROPERTY: JUAN 2
-
- 《佛說濡首菩薩無上清淨分衛經》¶
+《佛說濡首菩薩無上清淨分衛經》¶
 卷下¶
 ¶
 宋沙門翔公於南海郡譯¶
@@ -301,7 +300,7 @@
 曰：「何¶
 謂，濡首！其本行法？」
 
-曰：「唯，賢者！諸法無行是行¶
+曰：「惟，賢者！諸法無行是行¶
 之要，當作是行。曉行是行乃為至行也。若¶
 此，可共都行求食。」
 
@@ -339,8 +338,7 @@
 所說，吾已飽足。於時是無上食歎之名，況其¶
 已食如此食者。」
 
-曰：「唯，賢者！其食不以肉內¶
-外眼見，亦不天眼亦不慧眼處有所見。其食¶
+曰：「唯，賢者！其食不以肉內外眼見，亦不天眼亦不慧眼處有所見。其食¶
 如此，乃應等食也。」
 
 爾時耆年須菩提及舍利¶
